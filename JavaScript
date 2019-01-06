@@ -1,0 +1,2 @@
+var uname = prompt("Hello, what's your name?");
+alert("Thanks for stopping by please upvote if you like my blog, "+ uname + '!');
